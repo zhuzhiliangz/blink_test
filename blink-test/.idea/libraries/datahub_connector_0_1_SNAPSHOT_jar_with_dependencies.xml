@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="datahub-connector-0.1-SNAPSHOT-jar-with-dependencies">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/blink-datastream/src/main/lib/datahub-connector-0.1-SNAPSHOT-jar-with-dependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
